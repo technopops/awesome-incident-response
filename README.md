@@ -79,7 +79,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Incident Management
 
-
+* [CyberCPR](https://www.cybercpr.com) - CyberCPR is an incident management platform that provides need to know at the incident level so sensitive incidents, inteligence and evidence are not disclosed to those outside that investigation.  All user actions are timestamped including in-incident chat. Includes seperate exec reporting and stats interface.  Commercial and free versions are available.
 * [Demisto](https://www.demisto.com/product/) - Demisto community edition(free) offers full Incident lifecycle management, Incident Closure Reports, team assignments and collaboration, and many integrations to enhance automations (like Active Directory, PagerDuty, Jira and much more...)
 * [FIR](https://github.com/certsocietegenerale/FIR/) - Fast Incident Response (FIR) is an cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike
 * [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker
